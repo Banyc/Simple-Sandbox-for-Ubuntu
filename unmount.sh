@@ -1,0 +1,10 @@
+# unmount
+umount ./union
+umount ./read/lib
+umount ./read/lib64
+umount ./read/bin
+umount ./read/sys
+umount ./read/proc
+umount ./read/dev/pts
+umount ./read/dev
+umount ./read/etc/resolv.conf
